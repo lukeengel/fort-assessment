@@ -1,0 +1,11 @@
+name: fort
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - pandas
+  - pip
